@@ -5,4 +5,4 @@ const removeDuplicates = (input: number[]): number[] => {
   return uniqueNumbers;
 };
 
-// console.log(removeDuplicates([1, 2, 2, 3, 88, 88, 4, 4, 5, 9, 9]))
+// console.log(removeDuplicates([1, 2, 2, 3, 88, 88, 4, 4, 5, 9, 9]));
