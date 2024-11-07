@@ -20,5 +20,5 @@ class Car {
   }
 }
 
-const car = new Car("Honda", "Civic", 2019);
-console.log(car.getCarAge());
+// const car = new Car("Honda", "Civic", 2019);
+// console.log(car.getCarAge());
