@@ -25,3 +25,4 @@ const calculateShapeArea = (shape: Shape) => {
 //   width: 4,
 //   height: 6,
 // });
+// console.log("rectangleArea:", rectangleArea);
